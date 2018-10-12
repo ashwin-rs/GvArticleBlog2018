@@ -1,0 +1,29 @@
+.date_span {
+    font-size: 12px;
+    font-family: Montserrat, "Helvetica Neue", sans-serif;
+}
+div.container{
+	width: 100%;
+	height:auto;
+}
+div.row{
+	width: 100%;
+	height:auto;
+}
+div.col-sm-3{
+	width:10%;
+	height:auto;
+	float: left;
+	margin-right: 10px;
+}
+div.col-sm-9{
+	width:90%;
+	height:auto;
+	margin-left: 10px;
+}
+div.col-sm-12{
+	width:100%;
+	height:auto;
+	float: left;
+	padding: 10px;
+}
